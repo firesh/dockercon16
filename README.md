@@ -1,5 +1,7 @@
 # Cadavres Exquis "DockerCon 2016 edition"
 
+> Change Maven source with mirror in China.
+
 ## Setup
 
 ```
@@ -22,4 +24,3 @@ docker-compose scale words-java=20
 ```
 
 Open a browser on `http://localhost`. Refresh. It should be a new random sentence each time.
-
